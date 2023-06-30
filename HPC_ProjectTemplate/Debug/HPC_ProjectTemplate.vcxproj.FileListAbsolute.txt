@@ -1,0 +1,2 @@
+E:\College years\Sixth term\High Performance\HPC_ProjectTemplate\HPC_ProjectTemplate\Debug\HPC_ProjectTemplate.vcxproj.AssemblyReference.cache
+C:\Users\ayamo\Documents\GitHub\HPC-Project\HPC_ProjectTemplate\Debug\HPC_ProjectTemplate.vcxproj.AssemblyReference.cache
